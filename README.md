@@ -1,6 +1,3 @@
-Sure, here’s a sample `README.md` file for your landing page project:
-
-```markdown
 # SynctechFitness Landing Page
 
 Welcome to the SynctechFitness landing page project. This project showcases a modern and responsive landing page for a fitness gym, created using HTML and CSS. The design follows standard landing page practices, making it visually appealing and user-friendly.
